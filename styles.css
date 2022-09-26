@@ -26,3 +26,17 @@ a{
     text-align: center;
     padding-top: 15px;    
 }
+
+#title{ 
+    text-align: center;
+}
+
+#image{ 
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    border-bottom: 3px solid black;
+    background-image: url(nina-simone.webp);
+    background-size: cover;
+    border-radius: 500px;
+    }
