@@ -40,3 +40,7 @@ a{
     background-size: cover;
     border-radius: 500px;
     }
+
+    .text{
+        font-size: 14px;  
+    }
